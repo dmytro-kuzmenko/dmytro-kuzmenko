@@ -1,7 +1,7 @@
 ---
 ## About
 
-Machine Learning Researcher and Engineer. Orchestrated full ML development pipelines and designed a couple of end-to-end ML solutions which are still being used in production. Keen on mentoring everyone interested in AI. Striving to move AI in Ukraine. Teaching three mentees data science from scratch.
+Machine Learning Researcher and Engineer. Orchestrated full ML development pipelines and designed a couple of end-to-end ML solutions which are still being used in production. Keen on mentoring everyone interested in Machine Learning. Striving to move AI in Ukraine. Teaching three mentees Data Science from scratch.
 
 ---
 ## Research areas of interest
