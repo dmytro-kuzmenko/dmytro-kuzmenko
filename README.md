@@ -52,3 +52,5 @@ Machine Learning Researcher and Engineer. Orchestrated full ML development pipel
 [linkedin]: https://linkedin.com/in/righteousronin
 [telegram]: https://t.me/righteous_ronin
 [medium]: https://righteous-ronin.medium.com
+
+![](https://komarev.com/ghpvc/?username=righteousronin)
