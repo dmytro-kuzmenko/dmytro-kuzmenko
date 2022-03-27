@@ -1,20 +1,24 @@
 ---
 ## About
 
-Machine Learning Researcher and Engineer. Orchestrated full ML development pipelines and designed a couple of end-to-end ML solutions which are still being used in production. Keen on mentoring everyone interested in Machine Learning. Striving to move AI in Ukraine. Teaching three mentees Data Science from scratch.
+Machine Learning Research Engineer and a postgraduate student in Applied Mathematics at the National University of Kyiv-Mohyla Academy. 
+
+Research directions combine Machine Learning (ML), Computer Vision, and Reinforcement Learning focused in Healthcare and Assistive Technology. Recent projects include devising deep learning architectures for various domains such as spatiotemporal, audio, and textual data. Currently focusing on the Adversarial Robustness in Deep Learning models.
+
+Keen on teaching and mentoring everyone interested in Machine Learning. Reading guest lectures, teaching mentees, and playing shogi - Japanese chess. 
+
+Always open for new collaborations, hit me up with an email if you want to chat. You can find me at righteousronin.github.io.
 
 ---
 ## Research areas of interest
 
 ➣ Adversarial attacks and adversarial robustness
 
-➣ Satellite image super-resolution and detection
+➣ LiDAR panoptic segmentation, autonomous driving systems
+
+➣ Self-supervised learning and transformers in computer vision
 
 ➣ Reinforcement learning (single- and multi-agent setup)
-
-➣ Vehicle re-identification
-
-➣ Autonomous driving
 
 ---
 ## AI-centered content
