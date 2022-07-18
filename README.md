@@ -1,4 +1,3 @@
----
 ## About
 
 AI research engineer, mentor, lecturer, and master's student in Applied Mathematics at NaUKMA. 
@@ -7,10 +6,10 @@ Research directions combine ML, CV, and RL in Healthcare and Assistive Technolog
 
 Keen on making fresh paper overviews, riding scooters, and playing shogi. 
 
-Research areas of interest: 
-➣ Adversarial attacks and adversarial robustness
-➣ Self-supervised learning and transformers in computer vision
-➣ Reinforcement learning (single- and multi-agent setup)
+Research areas of interest:
+-- Adversarial attacks and adversarial robustness
+-- Self-supervised learning and transformers in computer vision
+-- Reinforcement learning (single- and multi-agent setup)
 
 For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
 ---
