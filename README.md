@@ -1,25 +1,18 @@
 ---
 ## About
 
-Machine Learning Research Engineer and a postgraduate student in Applied Mathematics at the National University of Kyiv-Mohyla Academy. 
+AI research engineer, mentor, lecturer, and master's student in Applied Mathematics at NaUKMA. 
 
-Research directions combine Machine Learning (ML), Computer Vision, and Reinforcement Learning focused in Healthcare and Assistive Technology. Recent projects include devising deep learning architectures for various domains such as spatiotemporal, audio, and textual data. Currently focusing on the Adversarial Robustness in Deep Learning models.
+Research directions combine ML, CV, and RL in Healthcare and Assistive Technology. Delivered multiple ML pipelines that are still being used in production. The research focus is on Adversarial Robustness in DL models. Guided over 10 mentees and read a multitude of lectures at different institutions.
 
-Keen on teaching and mentoring everyone interested in Machine Learning. Reading guest lectures, teaching mentees, and playing shogi - Japanese chess. 
+Keen on making fresh paper overviews, riding scooters, and playing shogi. 
 
-Always open for new collaborations, hit me up with an email if you want to chat. You can find me at righteousronin.github.io.
-
----
-## Research areas of interest
-
+Research areas of interest: 
 ➣ Adversarial attacks and adversarial robustness
-
-➣ LiDAR panoptic segmentation, autonomous driving systems
-
 ➣ Self-supervised learning and transformers in computer vision
-
 ➣ Reinforcement learning (single- and multi-agent setup)
 
+For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
 ---
 ## AI-centered content
 > [Medium blog](https://righteous-ronin.medium.com)
