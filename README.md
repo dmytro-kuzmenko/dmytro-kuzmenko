@@ -11,7 +11,7 @@ Research areas of interest:
 -- Self-supervised learning and transformers in computer vision
 -- Reinforcement learning (single- and multi-agent setup)
 
-For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
+#### For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
 ---
 ## AI-centered content
 > [Medium blog](https://righteous-ronin.medium.com)
