@@ -19,10 +19,7 @@ Keen on making fresh paper overviews, riding scooters, and playing shogi.
 ## Connect with me
 [<img align="left" alt="dmytro.o.kuzmenko | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dmytrookuzmenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="righteous-ronin | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
-
 
 [facebook]: https://www.facebook.com/dmytro.o.kuzmenko
 [linkedin]: https://linkedin.com/in/dmytrookuzmenko
-[medium]: https://righteous-ronin.medium.com
