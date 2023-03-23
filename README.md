@@ -6,9 +6,13 @@ Currently pursuing MSc in Applied Maths. Research directions combine Machine Lea
 
 Research areas of interest: 
 ➣ Adversarial attacks and adversarial robustness
+
 ➣ 2D/3D human pose estimation
+
 ➣ SSL and Transformers in Computer Vision
+
 ➣ LLMs with RLHF, multimodal models
+
 ➣ Reinforcement Learning (single- and multi-agent setups)
 
 #### For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
