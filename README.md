@@ -5,6 +5,7 @@ DS Engineering Manager, Tech Lead, ML Researcher, Lecturer at the Department of 
 Currently pursuing MSc in Applied Maths. Research directions combine Machine Learning, NLP, Computer Vision, and Reinforcement Learning mainly in the domains of Biomechanical Engineering and Healthcare & Assistive Technology. Architected numerous end-to-end ML pipelines from PoC to product-ready pipeline scaling. The academic focus lies on Adversarial Robustness and Sparsity in Deep Learning models. Supervised junior engineers in a wide variety of projects reaching successful completions. Instructed at a UofT-NaUKMA-UCU course pertaining to AI in Medicine. Guided many mentees and read plentiful DS-related lectures at different institutions.
 
 Research areas of interest: 
+
 ➣ Adversarial attacks and adversarial robustness
 
 ➣ 2D/3D human pose estimation
