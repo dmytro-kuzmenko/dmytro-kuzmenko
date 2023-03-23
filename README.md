@@ -1,15 +1,20 @@
 ## About
 
-DS Tech Lead, Research Scientist, Mentor and Lecturer, Master’s Student in Applied Mathematics at NaUKMA. Research directions combine Machine Learning, Computer Vision, and Reinforcement Learning in Healthcare and Assistive Technology. Delivered 9 ML pipelines that are still being used in production. The research focus is on Adversarial Robustness and Sparsity in Deep Learning models. Guided over 20 mentees and held 6 technical talks at different organizations. Striving to further empower the direction of AI in Ukraine and teach and shape young talented Ukrainian minds.
+DS Engineering Manager, Tech Lead, ML Researcher, Lecturer at the Department of Mathematics, NaUKMA, Associate at KITE. 
 
-Keen on making fresh paper overviews, riding scooters, and playing shogi. 
+Currently pursuing MSc in Applied Maths. Research directions combine Machine Learning, NLP, Computer Vision, and Reinforcement Learning mainly in the domains of Biomechanical Engineering and Healthcare & Assistive Technology. Architected numerous end-to-end ML pipelines from PoC to product-ready pipeline scaling. The academic focus lies on Adversarial Robustness and Sparsity in Deep Learning models. Supervised junior engineers in a wide variety of projects reaching successful completions. Instructed at a UofT-NaUKMA-UCU course pertaining to AI in Medicine. Guided many mentees and read plentiful DS-related lectures at different institutions.
+
+Research areas of interest: 
+➣ Adversarial attacks and adversarial robustness
+➣ 2D/3D human pose estimation
+➣ SSL and Transformers in Computer Vision
+➣ LLMs with RLHF, multimodal models
+➣ Reinforcement Learning (single- and multi-agent setups)
 
 #### For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
 ---
 ## AI-centered content
 > [Medium blog](https://righteous-ronin.medium.com)
-
-> [Telegram channel](https://t.me/aicoven)
 ---
 ## Education
 > [2021 - 2023] **National University of Kyiv-Mohyla Academy** | MSc Applied Maths
