@@ -1,22 +1,20 @@
 ## About
 
-DS Engineering Manager, Tech Lead, ML Researcher, Lecturer at the Department of Mathematics, NaUKMA, Associate at IATSL, KITE. 
+I am a Data Science Engineering Manager, Technical Lead, ML Researcher, and Lecturer at the Multimedia Sciences Department at NaUKMA.
 
-Research directions combine machine learning, natural language processing, computer vision, and reinforcement learning within the realms of Bio-Engineering and Health & Supportive Tech. The focus of academic research is placed on adversarial attacks and robustness in deep learning.
+My research combines Machine Learning, Computer Vision, and Reinforcement Learning within Robotics and Health & Supportive Tech domains. I have dedicated considerable focus in academic research to adversarial attacks and robustness in deep learning, and shall be focusing on Real-time Reinforcement Learning for Robotics in my PhD.
 
-Designed several comprehensive machine learning workflows from proof of concept to fully-scalable, production-ready solutions. Oversaw early-career engineers across a diverse range of projects, achieving positive outcomes. Mentored numerous individuals and delivered an abundance of artificial intelligence-focused presentations at various organizations.
+I have architected multiple complex end-to-end machine learning pipelines, from proof of concept to production-ready, scalable solutions. Successfully led teams of ML engineers in diverse projects and served as a mentor for numerous talented specialists. I have also delivered a wide range of talks and lectures on Machine Learning at various educational organizations.
 
-Research areas of interest: 
+Research areas of interest:
 
-➣ Adversarial attacks and adversarial robustness
+➣ Real-time / Offline Reinforcement Learning for Robotics
 
-➣ 2D/3D human pose estimation
+➣ Adversarial Robustness in Computer Vision
 
-➣ SSL and Transformers in Computer Vision
+➣ Semi-Supervised Learning and Transformers in Computer Vision
 
-➣ LLMs with RLHF, multimodal models
-
-➣ Reinforcement Learning (single- and multi-agent setups)
+For collaboration opportunities or other inquiries, feel free to reach out at dmytro.o.kuzmenko@gmail.com.
 
 #### For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
 ---
