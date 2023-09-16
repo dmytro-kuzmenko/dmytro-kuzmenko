@@ -27,9 +27,9 @@ For collaboration opportunities or other inquiries, feel free to reach out at dm
 > [2016 - 2021] **National University of Kyiv-Mohyla Academy** | BSc Software Engineering
 ---
 ## Connect with me
-[<img align="left" alt="dmytro.o.kuzmenko | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dmytrookuzmenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kuzmenko_dmytro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
-[facebook]: https://www.facebook.com/dmytro.o.kuzmenko
 [linkedin]: https://linkedin.com/in/dmytrookuzmenko
+[twitter]: https://twitter.com/kuzmenko_dmytro
