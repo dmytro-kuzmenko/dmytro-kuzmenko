@@ -22,7 +22,9 @@ For collaboration opportunities or other inquiries, feel free to reach out at dm
 > [Medium blog](https://righteous-ronin.medium.com)
 ---
 ## Education
-> [2021 - 2023] **National University of Kyiv-Mohyla Academy** | MSc Applied Maths
+> [2023 - 2027] **National University of Kyiv-Mohyla Academy** | PhD Computer Science
+
+> [2021 - 2023] **National University of Kyiv-Mohyla Academy** | MSc Applied Mathematics
 
 > [2016 - 2021] **National University of Kyiv-Mohyla Academy** | BSc Software Engineering
 ---
