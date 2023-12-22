@@ -1,20 +1,8 @@
 ## About
 
-I am a Data Science Engineering Manager, Technical Lead, ML Researcher, and Lecturer at the Multimedia Sciences Department at NaUKMA.
+PhD candidate specializing in Robotics and Reinforcement Learning at NaUKMA. Assistant Professor in the Department of Multimedia Sciences, teaching graduate and undergraduate various AI courses. Experienced leader, mentor, and machine learning architect. Noted for contribution to the field of rehabilitation robotics, with three significant publications enhancing the understanding and application of robotics in this area. A frequent speaker at AI-related events, bridging the gap between academic research and real-world applications.
 
-My research combines Machine Learning, Computer Vision, and Reinforcement Learning within Robotics and Health & Supportive Tech domains. I have dedicated considerable focus in academic research to adversarial attacks and robustness in deep learning, and shall be focusing on Real-time Reinforcement Learning for Robotics in my PhD.
-
-I have architected multiple complex end-to-end machine learning pipelines, from proof of concept to production-ready, scalable solutions. Successfully led teams of ML engineers in diverse projects and served as a mentor for numerous talented specialists. I have also delivered a wide range of talks and lectures on Machine Learning at various educational organizations.
-
-Research areas of interest:
-
-➣ Real-time / Offline Reinforcement Learning for Robotics
-
-➣ Adversarial Robustness in Computer Vision
-
-➣ Semi-Supervised Learning and Transformers in Computer Vision
-
-For collaboration opportunities or other inquiries, feel free to reach out at dmytro.o.kuzmenko@gmail.com.
+For collaboration suggestions or other inquiries, please reach out to dmytro.o.kuzmenko@gmail.com.
 
 #### For collaboration suggestions and other inquiries reach out to dmytro.o.kuzmenko@gmail.com.
 ---
