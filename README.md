@@ -2,7 +2,6 @@
 
 PhD candidate specializing in Robotics and Reinforcement Learning at NaUKMA. Assistant Professor in the Department of Multimedia Sciences, teaching graduate and undergraduate various AI courses. Experienced leader, mentor, and machine learning architect. Noted for contribution to the field of rehabilitation robotics, with three significant publications enhancing the understanding and application of robotics in this area. A frequent speaker at AI-related events, bridging the gap between academic research and real-world applications.
 
-#### For collaboration suggestions or other inquiries, please reach out to dmytro.o.kuzmenko@gmail.com.
 ---
 ## AI-centered content
 > [Medium blog](https://righteous-ronin.medium.com)
