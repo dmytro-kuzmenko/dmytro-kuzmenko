@@ -1,6 +1,6 @@
 ## About
 
-PhD candidate specializing in Robotics and Reinforcement Learning at NaUKMA. Assistant Professor in the Department of Multimedia Sciences, teaching graduate and undergraduate various AI courses. Experienced leader, mentor, and machine learning architect. Noted for contribution to the field of rehabilitation robotics, with three significant publications enhancing the understanding and application of robotics in this area. A frequent speaker at AI-related events, bridging the gap between academic research and real-world applications.
+I am a Data Science Engineering Manager at LITSLINK where I lead and supervise a team of 20 ML engineers. I am exploring the realms of Robotics and Reinforcement Learning as a PhD candidate at NaUKMA. I also teach Computer Vision, Machine Learning, NLP, and Reinforcement Learning for grad and undergrad students as a Senior Lecturer at Kyiv-Mohyla Academy. 
 
 ---
 ## Connect with me
