@@ -1,6 +1,6 @@
 ## About
 
-I am a Data Science Engineering Manager at LITSLINK where I lead and supervise a team of 20 ML engineers. I am exploring the realms of Robotics and Reinforcement Learning as a PhD candidate at NaUKMA. I also teach Computer Vision, Machine Learning, NLP, and Reinforcement Learning for grad and undergrad students as a Senior Lecturer at Kyiv-Mohyla Academy. 
+I am a Data Science Engineering Manager at LITSLINK where I lead and supervise a team of 20 ML engineers. I am exploring the realms of Robotics and Reinforcement Learning as a PhD candidate at NaUKMA. I also teach Computer Vision, Machine Learning, NLP, and Reinforcement Learning for grad and undergrad students as a Senior Lecturer at National University of Kyiv-Mohyla Academy. 
 
 ---
 ## Connect with me
