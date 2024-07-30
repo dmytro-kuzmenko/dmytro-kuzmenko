@@ -1,20 +1,11 @@
 ## About
 
-I am a Data Science Engineering Manager at LITSLINK, where I lead and supervise a team of 23 ML engineers. In this role, I have successfully architected and deployed multiple complex end-to-end machine learning pipelines, driving significant improvements in performance and scalability.
+As a Data Science Engineering Manager at LITSLINK, I lead a diverse team of 23 ML engineers across Computer Vision, NLP, Audio, and Generative AI domains. Our work involves architecting and deploying complex machine learning pipelines that drive significant performance improvements for a variety of clients and use cases.
 
-I am also pursuing a PhD in Robotics and Reinforcement Learning at NaUKMA, focusing on innovative research in cross-embodiment and sim-to-real transfer for robotic mobile manipulation tasks. My work aims to bridge the gap between simulation and real-world applications, enhancing efficiency and accuracy.
+My PhD research at National University of Kyiv-Mohyla Academy focuses on Robotics and Reinforcement Learning, specifically exploring cross-embodiment and sim-to-real transfer for robotic mobile manipulation tasks. This work aims to bridge the gap between simulation and real-world applications, enhancing efficiency and accuracy in embodied AI.
 
-As a senior lecturer at the Department of Multimedia Systems at NaUKMA, I teach courses in Computer Vision, Machine Learning, NLP, and Reinforcement Learning to undergraduate and graduate students. I am commited to mentoring and nurturing the next generation of Ukrainian AI talents. Additionally, I frequently speak at AI conferences and events and I aim to contribute to the broader Ukrainian AI community.
+At NaUKMA and SET University, I teach advanced courses in Computer Vision, Machine Learning, NLP, and Reinforcement Learning to undergraduate and graduate students. My goal is to nurture the next generation of AI talent in Ukraine, providing them with practical skills and theoretical knowledge needed in the rapidly evolving field of AI.
 
----
-## Connect with me
-[<img align="left" alt="dmytrookuzmenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kuzmenko_dmytro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dmytro_kuzmenko | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
-[<img align="left" alt="dmytro-kuzmenko | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-<br />
+I'm actively involved in the AI community, frequently speaking at conferences and events on topics ranging from applied machine learning to cutting-edge research in robotics. I'm committed to contributing to and growing the Ukrainian AI ecosystem through mentorship, public speaking, and collaborative research initiatives.
 
-[linkedin]: https://linkedin.com/in/dmytrookuzmenko
-[twitter]: https://twitter.com/kuzmenko_dmytro
-[googlescholar]: https://scholar.google.com/citations?user=8gFMCU0AAAAJ&hl=en
-[medium]: https://dmytro-kuzmenko.medium.com
+My passion lies in pushing the boundaries of AI and robotics while fostering a community of talented learners and practitioners. If you're interested in learning more about my work, research, or educational initiatives, please visit my website: https://dmytro-kuzmenko.github.io/
