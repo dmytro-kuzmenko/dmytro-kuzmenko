@@ -1,7 +1,7 @@
 ## About
 
-I am a Data Science Engineering Manager at Litslink, where I lead a diverse team of more than 20 ML engineers across Computer Vision, NLP, Audio, and Generative AI domains. My work involves architecting complex machine learning solutions for PoCs and MVPs for a variety of clients, domains, and use cases.
+I am a seasoned AI and Machine Learning leader with extensive experience in architecting complex, scalable solutions across diverse domains including Computer Vision, NLP, Audio, and Generative AI. With a strong focus on strategic leadership, I have successfully guided teams of 20+ ML engineers, delivering innovative PoCs and MVPs for global clients.
 
-I am also doing my PhD in CS at National University of Kyiv-Mohyla Academy (NaUKMA), where I work with Reinforcement Learning in Robotics and focus on efficiency and performance optimization. I also teach various courses such as Deep Learning for Computer Vision, Machine Learning, NLP systems, and Reinforcement Learning at NaUKMA and SET University.
+I am pursuing a PhD in Computer Science at National University of Kyiv-Mohyla Academy, where I focus on Reinforcement Learning in Robotics, emphasizing optimization in efficiency and performance. As a Senior Lecturer, I teach advanced AI courses, including Deep Learning, Machine Learning, NLP systems, and Reinforcement Learninga as well supervise undergraduates and their theses.
 
-I'm actively involved in the AI community, frequently speaking at conferences and events on topics ranging from applied machine learning to cutting-edge research in robotics. I'm committed to contributing to and growing the Ukrainian AI ecosystem through mentorship, public speaking, and collaborative research initiatives.
+Beyond my academic and technical work, I actively contribute to the AI ecosystem in Ukraine. I mentor aspiring AI leaders, speak at international conferences, and collaborate on cutting-edge research. My mission is to drive impactful AI adoption and innovation through education, mentorship, and thought leadership.
