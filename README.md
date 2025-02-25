@@ -1,7 +1,9 @@
 ## About
 
-I am a seasoned AI and Machine Learning leader with extensive experience in architecting complex, scalable solutions across diverse domains including Computer Vision, NLP, Audio, and Generative AI. With a strong focus on strategic leadership, I have successfully guided teams of 20+ ML engineers, delivering innovative PoCs and MVPs for global clients.
+I'm a PhD student in Computer Science at National University of Kyiv-Mohyla Academy (NaUKMA) advised by Dr. Nadiya Shvai. My research interests include reinforcement learning, robotics, and vision-language-action models.
 
-I am pursuing a PhD in Computer Science at National University of Kyiv-Mohyla Academy, where I focus on Reinforcement Learning in Robotics, emphasizing optimization in efficiency and performance. As a Senior Lecturer, I teach advanced AI courses, including Deep Learning, Machine Learning, NLP systems, and Reinforcement Learning as well as supervise undergraduates and their theses.
+Before my PhD, I completed my Bachelor of Science in Software Engineering and Master of Science in Applied Mathematics at NaUKMA. There, I conducted research on Adversarial Sparsity in Attacks and Defenses for L-inf threat model. Apart from my academic pursuits, I work as a Head of AI at a Ukrainian startup with a focus on scalable LLM and Gen AI solutions.
 
-Beyond my academic and technical work, I actively contribute to the AI ecosystem in Ukraine. I mentor aspiring AI engineers, speak at international conferences, and collaborate on cutting-edge research. My mission is to drive impactful AI adoption and innovation through education, mentorship, and thought leadership.
+I am also a senior lecturer at NaUKMA, where I teach undergraduate and graduate AI courses and supervise emerging talent. I actively support Ukraine’s AI community by mentoring aspiring AI engineers, speaking at international conferences and events, and collaborating on cutting-edge research.
+
+More about my work: https://dmytro-kuzmenko.github.io/
