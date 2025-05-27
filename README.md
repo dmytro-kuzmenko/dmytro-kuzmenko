@@ -1,9 +1,3 @@
 ## About
 
-I'm a PhD student in Computer Science at National University of Kyiv-Mohyla Academy (NaUKMA) advised by Dr. Nadiya Shvai. My research interests include reinforcement learning, robotics, and vision-language-action models.
-
-Before my PhD, I completed my Bachelor of Science in Software Engineering and Master of Science in Applied Mathematics at NaUKMA. There, I conducted research on Adversarial Sparsity in Attacks and Defenses for L-inf threat model. Apart from my academic pursuits, I work as a Head of AI at a Ukrainian startup with a focus on scalable LLM and Gen AI solutions.
-
-I am also a senior lecturer at NaUKMA, where I teach undergraduate and graduate AI courses and supervise emerging talent. I actively support Ukraine’s AI community by mentoring aspiring AI engineers, speaking at international conferences and events, and collaborating on cutting-edge research.
-
-More about my work: https://dmytro-kuzmenko.github.io/
+I’m an AI and robotics researcher focused on building efficient, adaptive systems at the intersection of reinforcement learning, robotics, and foundation models. As Head of AI at OnlyMonster, I lead the development of generative and conversational AI products. I’m pursuing a PhD in Computer Science at NaUKMA, where my research centers on optimizing perception and control models. I am also exploring human-robot interaction to make AI systems more intuitive and responsive in real-world settings.
