@@ -8,4 +8,4 @@
   I am also pursuing a PhD in Computer Science at the National University of Kyiv-Mohyla Academy and am currently a visiting PhD researcher at AIRLab, University of Turin, working on assistive and socially intelligent human-robot interaction. My broader research interests include robot learning, reinforcement learning, computer vision, multimodal and foundation models, autonomous agents, and embodied AI. I regularly communicate my work through conference presentations, invited lectures, panels, podcasts, and AI community events.
 
   <p align="justify">
-  In parallel, I bring over nine years of industry experience in software engineering and applied AI. I currently serve as Head of AI at OnlyMonster, where I work on production language and agentic systems for real-time assistance, multilingual translation, safety, and AI-driven product features.
+  In parallel, I have over nine years of industry experience in software engineering and applied AI. I currently serve as Head of AI at OnlyMonster, where I work on production language and agentic systems for real-time assistance, multilingual translation, safety, and AI-driven product features.
